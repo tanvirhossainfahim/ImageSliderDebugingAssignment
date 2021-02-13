@@ -6,7 +6,6 @@
 # Bugs
 - Spelling mistake in index.html id="doration" => FIXED
 - Mission type attribute in same line => FIXED
-- Mission type attribute in same line => FIXED
 - In app.js, then(data => showImages(data.hitS)) => FIXED
 - Empty search form submit => FIXED
 - Disable nagetive value in duration field => FIXED
